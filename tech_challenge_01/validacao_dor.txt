@@ -1,0 +1,34 @@
+Perguntas para a Validação da Dor
+1 - Qual a frequência com que você precisa documentar processos ou regras de negócio?
+Objetivo: Identificar a recorrência da necessidade.
+
+2 - Quais são os principais desafios enfrentados ao documentar processos ou especificações técnicas?
+Objetivo: Detectar pontos de frustração específicos.
+
+3 - Você sente que a documentação dos processos é compreendida por todos os envolvidos?
+Objetivo: Avaliar se há problemas de clareza ou consistência na documentação.
+
+4 - Quanto tempo, em média, você dedica para documentar um processo ou uma especificação técnica?
+Objetivo: Quantificar o tempo gasto e avaliar a eficiência.
+
+5 - Qual seria o impacto para você e sua equipe se houvesse uma maneira mais ágil e precisa de documentar?
+Objetivo: Entender a importância da dor para o cliente.
+
+6 - Quais ferramentas ou métodos você usa atualmente para documentar processos e regras de negócios?
+Objetivo: Identificar alternativas existentes e ver o que não está funcionando.
+
+7 - Com que frequência você ou sua equipe têm que revisar ou corrigir a documentação?
+Objetivo: Avaliar a consistência e confiabilidade da documentação atual.
+
+8 - Você já se encontrou em uma situação em que uma documentação incompleta ou errada causou problemas no projeto? Se sim, quais?
+Objetivo: Obter exemplos de problemas causados pela falta de documentação.
+
+9 - Em uma escala de 1 a 10, quão desafiador é para você o processo de documentação atualmente?
+Objetivo: Medir a intensidade da dor.
+
+10 - Quais seriam as principais características de uma ferramenta ideal de documentação que solucionasse seus desafios?
+Objetivo: Conhecer expectativas e necessidades específicas.
+
+11 - Qual é a sua posição atual? (Cargo)
+Objetivo: Conhecer o publico alvo. 
+Depois verificamos quais delas podem virar escala de 0 a 10, assim não só qualificamos, mas quantificamos também.
